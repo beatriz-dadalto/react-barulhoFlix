@@ -1,0 +1,363 @@
+{
+  "categorias": [
+    {
+      "titulo": "Scena",
+      "link": "https://www.youtube.com/c/CanalScena/videos",
+      "cor": "#45AA22",
+      "link_extra": {
+        "text": "Troca ideia e curte um som ao vivo com bandas que mantém a cena viva",
+        "url": "https://bit.ly/scena-instagram"
+      },
+      "videos": [
+        {
+          "titulo": "Banda Krisiun Ao Vivo",
+          "url": "https://www.youtube.com/watch?v=OydJWX9HZag"
+        },
+        {
+          "titulo": "PlayList: Bandas Ao Vivo",
+          "url": "https://www.youtube.com/watch?v=NB-ZQlGWvyA&list=PLsvI8YgfzLuWBLCSGBPmVk2OUFXvR2AOM"
+        },
+        {
+          "titulo": "PlayList: Falatório",
+          "url": "https://www.youtube.com/watch?v=1esUHa-nF2w&list=PLsvI8YgfzLuU1yycdSQNHw40QYz4d-GOb"
+        },
+        {
+          "titulo": "PlayList: Blasfêmea",
+          "url": "https://www.youtube.com/watch?v=RThl6q_8mvw&list=PLsvI8YgfzLuW1-T1hZBuKkNP7lt6MaBSV"
+        },
+        {
+          "titulo": "PlayList: Disco",
+          "url": "https://www.youtube.com/watch?v=vgj_MDhP_qY&list=PLsvI8YgfzLuVP7LfOJUanhbIT1-jaFWJ0"
+        },
+        {
+          "titulo": "PlayList: Listão",
+          "url": "https://www.youtube.com/watch?v=ODt9evQD3jM&list=PLsvI8YgfzLuXB-XxyYN6FhJsRD5nhB2iR"
+        },
+        {
+          "titulo": "PlayList: Megazord Metal Morte",
+          "url": "https://www.youtube.com/watch?v=5LLw7lQ7Bk0&list=PLsvI8YgfzLuXRGsLF-8y7Xq2ubB7yDgXu"
+        },
+        {
+          "titulo": "PlayList: Graxa",
+          "url": "https://www.youtube.com/watch?v=qWIaQeRu_tw&list=PLsvI8YgfzLuU8C8YXuNwWaS3s4jQPOFlm"
+        }     
+      ]
+    },
+    {
+      "titulo": "Baile do Capiroto",
+      "cor": "#45AA22",
+      "link_extra": {
+        "text": "† MÚSICA.EXTREMA.EM.DEBATE †",
+        "url": "https://www.youtube.com/c/BailedoCapiroto/videos"
+      },
+      "videos": [
+        {
+          "titulo": "PlayList: Indicações Do Capiroto",
+          "url": "https://www.youtube.com/watch?v=H3oRJ-iNAD0&list=PLCGz-FSamTlmBuGD_fvYSHaQG_nbKA-re"
+        },
+        {
+          "titulo": "PlayList: Baile do Capiroto",
+          "url": "https://www.youtube.com/watch?v=jH8PItdvd30&list=PLCGz-FSamTllQWl3EKfCX-pRBWAWp6hsb"
+        },
+        {
+          "titulo": "PlayList: Riffs do Capiroto",
+          "url": "https://www.youtube.com/watch?v=FbeDNK_3e3A&list=PLCGz-FSamTlncU7J4mH8sv1IT7ac-Qsxv"
+        },
+        {
+          "titulo": "PlayList: Baú do Capiroto",
+          "url": "https://www.youtube.com/watch?v=NPOGmgT4Xew&list=PLCGz-FSamTllW2WbNwkroHaKcJMb-j4Ad"
+        }, 
+        {
+          "titulo": "PlayList: PodCast",
+          "url": "https://www.youtube.com/watch?v=YAnYoEeJ7SE&list=PLCGz-FSamTlkjTjZMvyLraGjIEUIE35Gz"
+        }
+      ]
+    },
+    {
+      "titulo": "Heavy Talk",
+      "cor": "#45AA22",
+      "link_extra": {
+        "text": "Entrevistas exclusivas e vídeos de shows de rock e heavy metal, artigos de opinião, resenhas de CD's...",
+        "url": "https://www.youtube.com/c/HeavyTalkVideos/videos"
+      },
+      "videos": [
+        {
+          "titulo": "PlayList: Shows no Brasil",
+          "url": "https://www.youtube.com/watch?v=FWbVOePdUHs&list=PLRKWw7uFC5h6UGozD-0bUF8rPEokiWA66"
+        },
+        {
+          "titulo": "PlayList: Bandas ótimas que Ninguém Conhece",
+          "url": "https://www.youtube.com/watch?v=h_0SaM91Ua0&list=PLRKWw7uFC5h41KbOUBGRte6z11u1R0B5X"
+        },
+        {
+          "titulo": "PlayList: Por onde começar?",
+          "url": "https://www.youtube.com/watch?v=CZ0CwI5H5wU&list=PLRKWw7uFC5h5C__0KZcSYnNmcp_XPBSht"
+        },
+        {
+          "titulo": "PlayList: SpotLight",
+          "url": "https://www.youtube.com/watch?v=hHmP35xMZno&list=PLRKWw7uFC5h6FqU8uzqz0ijem4g1UVTLH"
+        },
+        {
+          "titulo": "PlayList: Conceitual",
+          "url": "https://www.youtube.com/watch?v=Jv98yHS0bZo&list=PLRKWw7uFC5h4V25mwSBsm-4bBE7ZQzGl_"
+        }
+      ]
+    },
+    {
+      "titulo": "Canal Barbônico",
+      "cor": "#45AA22",
+      "link_extra": {
+        "text": "Aqui o tema é Rock e Heavy Metal, numa tentativa de divulgar e falar sobre o mundo do underground e mainstream, mundial!",
+        "url": "https://www.youtube.com/c/HeavyTalkVideos/videos"
+      },
+      "videos": [
+        {
+          "titulo": "PlayList: Top Metal (Temp: 4)",
+          "url": "https://www.youtube.com/watch?v=TSIjklxExr8&list=PLPsxS02bQ0OcmesOJad7-VVaU9Bi-EYVC"
+        },
+        {
+          "titulo": "PlayList: Mistérios do Rock",
+          "url": "https://www.youtube.com/watch?v=6g4SaewUrx8&list=PLPsxS02bQ0OdpPH8SEy8KNVKNWjvdmvm-"
+        },
+        {
+          "titulo": "PlayList:  Reflexões De Um Quase Headbanger",
+          "url": "https://www.youtube.com/watch?v=T5cKP1WvbeU&list=PLPsxS02bQ0OesrHuYjZrFFuHOsR-1A8L0"
+        },
+        {
+          "titulo": "PlayList: 1 Capa Por Semana (Temp: 1)",
+          "url": "https://www.youtube.com/watch?v=w68zgQFov0A&list=PLPsxS02bQ0Of6Bxj3btpZk1-xDib_sCs7"
+        },
+        {
+          "titulo": "PlayList: Registro Biográfico (Temp: 2)",
+          "url": "https://www.youtube.com/watch?v=2_NHfKcqH6Q&list=PLPsxS02bQ0OfAFan9PmlYTvjIkifaK_-b"
+        }
+      ]
+    },
+    {
+      "titulo": "FLASHBANGER",
+      "cor": "#45AA22",
+      "link_extra": {
+        "text": "Se você é louco pela cena/música e Cultura underground seu lugar é aqui!",
+        "url": "https://www.youtube.com/c/StephCiciliatti/videos"
+      },
+      "videos": [
+        {
+          "titulo": "10 Festivais de Música Underground (parte 1)",
+          "url": "https://www.youtube.com/watch?v=kI97siaExqg"
+        },
+        {
+          "titulo": "PlayList: Lançamentos do mês",
+          "url": "https://www.youtube.com/watch?v=moZFo33CnAE&list=PL09MtgjoWcBjyQOpQe26AgwkfxKiyphyw"
+        },
+        {
+          "titulo": "PlayList: Festivais",
+          "url": "https://www.youtube.com/watch?v=vtK6HPJ4h3I&list=PL09MtgjoWcBhdeH7j7lv6Qy53GH2X2CMT"
+        },
+        {
+          "titulo": "PlayList: Dica para bandas",
+          "url": "https://www.youtube.com/watch?v=rXuJ1vA-nXg&list=PL09MtgjoWcBhVWlyiM-WbTZYju-0ZbBJb"
+        },
+        {
+          "titulo": "PlayList: Review",
+          "url": "https://www.youtube.com/watch?v=w5oz0BNtb54&list=PL09MtgjoWcBi0eYtQa8vHZT9QXzZiNnTb"
+        },
+        {
+          "titulo": "Entrevista Surra - Escorrendo Pelo Ralo",
+          "url": "https://www.youtube.com/watch?v=b6lUXnlFhHg"
+        }
+      ]
+    },
+    {
+      "titulo": "Hedflow",
+      "cor": "#45AA22",
+      "link_extra": {
+        "text": "Cobertura de eventos, entrevistas, música, arte alternativa e cotidiano subversivo",
+        "url": "https://www.youtube.com/c/hedflow/videos"
+      },
+      "videos": [
+        {
+          "titulo": "PlayList: Ao Vivo",
+          "url": "https://www.youtube.com/watch?v=EZvErkS3tNk&list=PLFqZnB25ubCE2DjrC_e08ReHu-4-nLiL-"
+        },
+        {
+          "titulo": "PlayList: Entrevistas",
+          "url": "https://www.youtube.com/watch?v=y4WyBfXvKNA&list=PLFqZnB25ubCH9j6NDc7t3FUudWqZruNb0"
+        },
+        {
+          "titulo": "PlayList: Papo Reto",
+          "url": "https://www.youtube.com/watch?v=H2ETKH8MgmE&list=PLFqZnB25ubCE0ACp0jug1wxs7uOAsqxd-"
+        },
+        {
+          "titulo": "PlayList: Tamo Junto",
+          "url": "https://www.youtube.com/watch?v=vgVg7uwsHNo&list=PLFqZnB25ubCGTLlBZX2QNnS9njcV4w0Wh"
+        },
+        {
+          "titulo": "PlayList: I Wonder...",
+          "url": "https://www.youtube.com/watch?v=tcFLTOBeppE&list=PLFqZnB25ubCH7rDEM0VduziJKXQ9wB3Nc"
+        }
+      ]
+    },
+    {
+      "titulo": "Detector de Metal",
+      "cor": "#45AA22",
+      "link_extra": {
+        "text": "HEAVY METAL do Brasil para headbangers. Sempre trazendo boas bandas que tão na luta e comentários de materiais lançados",
+        "url": "https://www.youtube.com/c/DetectordeMetal/videos"
+      },
+      "videos": [
+        {
+          "titulo": "PlayList: WACKEN OPEN AIR 2019",
+          "url": "https://www.youtube.com/watch?v=F5YjS7zA0hQ&list=PLtoj6rLHRwoXlkVA-r9lfAhjL4StMb4Hp"
+        },
+        {
+          "titulo": "PlayList: DETECTOR DE METAL EM LOCO",
+          "url": "https://www.youtube.com/watch?v=I5bOqhQlyFk&list=PLtoj6rLHRwoXmfOv9dlhbAvGfCLvPekIY"
+        },
+        {
+          "titulo": "Lançamentos do METAL NACIONAL | Vol. 3 |",
+          "url": "https://www.youtube.com/watch?v=bFGPmVAQL_E"
+        },
+        {
+          "titulo": "Lançamentos do METAL NACIONAL | Vol. 2 |",
+          "url": "https://www.youtube.com/watch?v=Lf3R79Of3XI"
+        }
+      ]
+    },
+    {
+      "titulo": "Kazagastão",
+      "cor": "#45AA22",
+      "link_extra": {
+        "text": "Emissora Rock 'n' Roll que pratica jornalismo musical na contramão da mídia brasileira.",
+        "url": "https://www.youtube.com/heavylero/videos"
+      },
+      "videos": [
+        {
+          "titulo": "PlayList: KZG RECOMENDA",
+          "url": "https://www.youtube.com/watch?v=-fHUlI5AStQ&list=PLvZ6UZ62jzgcaUb7Cp3ZL7TrnhYagiXYY"
+        },
+        {
+          "titulo": "PlayList: HELLFABETO",
+          "url": "https://www.youtube.com/watch?v=PVW04004MmM&list=PLvZ6UZ62jzgcsFc6E8fx7rkq0bb8jWVYh"
+        },
+        {
+          "titulo": "PlayList: KZG NEWS",
+          "url": "https://www.youtube.com/watch?v=Hp-lXCFbWDk&list=PLvZ6UZ62jzgc6H7ofnWjQPcItllBG1PGc"
+        },
+        {
+          "titulo": "PlayList: ARQUIVO KZG",
+          "url": "https://www.youtube.com/watch?v=NgtEyhM_3nM&list=PLvZ6UZ62jzgfmeC2-mAUz-K1xunNwMbPu"
+        },
+        {
+          "titulo": "PlayList: HEAVY LERO",
+          "url": "https://www.youtube.com/watch?v=PPfoE_l_588&list=PLvZ6UZ62jzgdiv6LdtFc4wm0FF7rw3-U5"
+        },
+        {
+          "titulo": "PlayList: ARREPIÔMETRO",
+          "url": "https://www.youtube.com/watch?v=Wg0rCSXT3X8&list=PLvZ6UZ62jzgcaQH-nVJbAAfzcFaPyEjm1"
+        }
+      ]
+    },
+    {
+      "titulo": "Musificando",
+      "cor": "#45AA22",
+      "link_extra": {
+        "text": "O Musificando tem a missão de falar sobre música independente pra você!",
+        "url": "https://www.youtube.com/c/Musificando/videos"
+      },
+      "videos": [
+        {
+          "titulo": "PlayList: Musificando",
+          "url": "https://www.youtube.com/watch?v=PLA_Gq2moiU&list=PLuTuVba-35SEEP1mOS2eg9OyI2fdJeyk1"
+        },
+        {
+          "titulo": "PlayList: InDisco",
+          "url": "https://www.youtube.com/watch?v=6WQkjZMpb_Q&list=PLuTuVba-35SETdcf_ooyzcn1bUzruQ_lt"
+        },
+        {
+          "titulo": "PlayList: Dicas Pra Curtir Um Show",
+          "url": "https://www.youtube.com/watch?v=OO1LQNfWlOk&list=PLuTuVba-35SEAzmeEd05PwxAV1bExiClg"
+        },
+        {
+          "titulo": "PlayList: Entrevista - 2ª Temporada",
+          "url": "https://www.youtube.com/watch?v=VGtDedk8N-s&list=PLuTuVba-35SExN0wrgQnPV7iN1a6D1flu"
+        },
+        {
+          "titulo": "PlayList: Musificando Extra!",
+          "url": "https://www.youtube.com/watch?v=1E05IabemaI&list=PLuTuVba-35SGTIrA05lsVrijo7Ak010Dc"
+        },
+        {
+          "titulo": "PlayList: Entrevista - 1ª Temporada",
+          "url": "https://www.youtube.com/watch?v=_CcFp6MdqCs&list=PLuTuVba-35SE2-aQL9vQV_p9_HxqATt09"
+        }
+      ]
+    },
+    {
+      "titulo": "Raro Zine",
+      "cor": "#45AA22",
+      "link_extra": {
+        "text": "Entrevistas, dicas, bandas ao vivo! http://www.rarozine.com.br/",
+        "url": "https://www.youtube.com/channel/UCwhic4kWzyoTiRAV4RouvzQ/videos"
+      },
+      "videos": [
+        {
+          "titulo": "PlayList: Rz Indica (2020)",
+          "url": "https://www.youtube.com/watch?v=J0AHodBu8Bs&list=PL3ZJG9UMRZHul4af8hIKemVe_AOo-w6mk&has_verified=1"
+        },
+        {
+          "titulo": "PlayList: Entrevistas 2020 (2a temporada)",
+          "url": "https://www.youtube.com/watch?v=PZ5EeJEj-YA&list=PL3ZJG9UMRZHsVQlx-eNu2y_ioy3X-dv2Q"
+        },
+        {
+          "titulo": "PlayList: Dicas Pra Curtir Um Show",
+          "url": "https://www.youtube.com/watch?v=OO1LQNfWlOk&list=PLuTuVba-35SEAzmeEd05PwxAV1bExiClg"
+        },
+        {
+          "titulo": "PlayList: Cabeceira Rz (2a temporada)",
+          "url": "https://www.youtube.com/watch?v=RxTGZMzQGYU&list=PL3ZJG9UMRZHu9TNgpJtwAGn1d36pNiJWN"
+        },
+        {
+          "titulo": "PlayList: Lado C (2020)",
+          "url": "https://www.youtube.com/watch?v=IMqHnAox1AA&list=PL3ZJG9UMRZHto_dqlebXf1LWEuEdaNMIv&has_verified=1"
+        },
+        {
+          "titulo": "PlayList: Rz Indica (2019)",
+          "url": "https://www.youtube.com/watch?v=xDhDRVB6ccA&list=PL3ZJG9UMRZHtsmqxgM6PIVmPUyo3CYBXY"
+        }
+      ]
+    },
+    {
+      "titulo": "Resistência Underground",
+      "cor": "#45AA22",
+      "link_extra": {
+        "text": "Divulgação de bandas de rock e metal underground",
+        "url": "https://www.youtube.com/channel/UCBlWPv0J3h_Z5_oPVmKr05A/videos"
+      },
+      "videos": [
+        {
+          "titulo": "Banda: Archote",
+          "url": "https://www.youtube.com/watch?v=_6NZqWf1MhU"
+        },
+        {
+          "titulo": "Banda: Terceira Guerra",
+          "url": "https://www.youtube.com/watch?v=ETuku6DJ7lk"
+        },
+        {
+          "titulo": "Banda: Manger Cadavre",
+          "url": "https://www.youtube.com/watch?v=0AT6eqPoAIM"
+        },
+        {
+          "titulo": "Banda: A Place For Me",
+          "url": "https://www.youtube.com/watch?v=vDiQr_Kcq4Q&has_verified=1"
+        },
+        {
+          "titulo": "Banda: Uganga",
+          "url": "https://www.youtube.com/watch?v=j_PGcOP0FWU"
+        },
+        {
+          "titulo": "Banda: Eminence",
+          "url": "https://www.youtube.com/watch?v=TTcwXGJE4Ps"
+        }
+      ]
+    }
+  ]
+}
