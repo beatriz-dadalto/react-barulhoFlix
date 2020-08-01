@@ -1,12 +1,12 @@
 import React from 'react'
-import Menu from './components/Menu'
-import dadosIniciais from './data/dados_iniciais.json'
-import BannerMain from './components/BannerMain'
-import Carrosel from './components/Carrousel'
-import Footer from './components/Footer'
+import Menu from '../../components/Menu'
+import dadosIniciais from '../../data/dados_iniciais.json'
+import BannerMain from '../../components/BannerMain'
+import Carrosel from '../../components/Carrousel'
+import Footer from '../../components/Footer'
 
 
-function App() {
+function Home() {
   return (
     <React.Fragment>
       <div style={{ background: "#181818" }}>
@@ -37,4 +37,4 @@ function App() {
   );
 }
 
-export default App;
+export default Home;
