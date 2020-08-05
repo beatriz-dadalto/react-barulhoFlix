@@ -35,7 +35,9 @@ const CadastroCategoria = () => {
   }
 
   useEffect(() => {
-    const URL = 'http://localhost:3001/categorias';
+    const URL = window.location.hostname.includes('localhost')
+      ? 'http://localhost:3001/categorias'
+      : 'https://barulhoflix-rockmusic.herokuapp.com/categorias';
 
     fetch(URL)
       .then(async (response) => {
