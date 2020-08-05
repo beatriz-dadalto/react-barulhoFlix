@@ -1,0 +1,16 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Scena",
+      "descricao": "sobre a categoria scena",
+      "cor": "#orange"
+    },
+    {
+      "id": 2,
+      "nome": "Baile do Capiroto",
+      "descricao": "sobre a categoria baile do capiroto",
+      "cor": "#orange"
+    }
+  ]
+}

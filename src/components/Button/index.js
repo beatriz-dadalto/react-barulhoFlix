@@ -4,6 +4,7 @@ const Button = styled.a`
   background-color: #45AA22;
   color: var(--white);
   border: 1px solid #45AA22;
+  /* background: var(--black); */
   box-sizing: border-box;
   cursor: pointer;
   padding: 16px 24px;
@@ -24,4 +25,4 @@ const Button = styled.a`
   
 `;
 
-export default Button
+export default Button;
