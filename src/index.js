@@ -10,7 +10,7 @@ import CadastroCategoria from './pages/cadastro/Categoria';
 // https://www.youtube.com/watch?v=jOAU81jdi-c&list=PLTcmLKdIkOWmeNferJ292VYKBXydGeDej
 function Pagina404() {
   return <div>Página 404</div>;
-};
+}
 
 ReactDOM.render(
   <BrowserRouter>

@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import PageDefault from '../../../components/PageDefault';
 import FormField from '../../../components/FormField';
 import Button from '../../../components/Button';
+import useForm from '../../../hooks/useForm';
 
 const CadastroCategoria = () => {
   const valoresIniciais = {
@@ -11,28 +12,10 @@ const CadastroCategoria = () => {
     cor: '',
   };
 
+  const { handleSetFormValues, formValues, clearForm } = useForm(valoresIniciais);
+
   // react state
   const [categorias, setCategorias] = useState([]);
-  const [formValues, setFormValues] = useState(valoresIniciais);
-
-  function setFormValue(chave, valor) {
-    setFormValues({
-      ...formValues,
-      [chave]: valor, // nome: 'valor
-    });
-  }
-
-  const handleSetFormValues = (eventInfo) => {
-    setFormValues(eventInfo.target.value);
-    setFormValue(eventInfo.target.getAttribute('name'), eventInfo.target.value);
-  };
-
-  function handleSubmit(eventInfo) {
-    eventInfo.preventDefault();
-    setCategorias([...categorias, formValues]);
-
-    setFormValues(valoresIniciais);
-  }
 
   useEffect(() => {
     const URL = window.location.hostname.includes('localhost')
@@ -53,13 +36,44 @@ const CadastroCategoria = () => {
         {formValues.nome}
       </h1>
 
-      <form onSubmit={handleSubmit}>
+      <form onSubmit={function handleSubmit(infosDoEvento) {
+        infosDoEvento.preventDefault();
+        setCategorias([
+          ...categorias,
+          formValues,
+        ]);
 
-        <FormField label="Nome da categoria" type="text" name="nome" value={formValues.nome} onChange={handleSetFormValues} />
-        <FormField label="Descrição" type="textarea" name="descricao" value={formValues.descricao} onChange={handleSetFormValues} />
-        <FormField label="Cor" type="color" name="cor" value={formValues.cor} onChange={handleSetFormValues} />
+        clearForm();
+      }}
+      >
 
-        <Button>Cadastrar Vídeo</Button>
+        <FormField
+          label="Nome da categoria"
+          type="text"
+          name="nome"
+          value={formValues.nome}
+          onChange={handleSetFormValues}
+        />
+
+        <FormField
+          label="Descrição"
+          type="textarea"
+          name="descricao"
+          value={formValues.descricao}
+          onChange={handleSetFormValues}
+        />
+
+        <FormField
+          label="Cor"
+          type="color"
+          name="cor"
+          value={formValues.cor}
+          onChange={handleSetFormValues}
+        />
+
+        <Button>
+          Cadastrar Vídeo
+        </Button>
       </form>
 
       {categorias.length === 0 && (
@@ -70,7 +84,7 @@ const CadastroCategoria = () => {
 
       <ul>
         {categorias.map((categoria, index) => (
-          <li key={categoria[index]}>{categoria.nome}</li>
+          <li key={categoria[index]}>{categoria.titulo}</li>
         ))}
       </ul>
 
