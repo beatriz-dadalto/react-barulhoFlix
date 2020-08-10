@@ -72,7 +72,7 @@ const CadastroCategoria = () => {
         />
 
         <Button>
-          Cadastrar Vídeo
+          Cadastrar Categoria
         </Button>
       </form>
 
@@ -83,8 +83,8 @@ const CadastroCategoria = () => {
       )}
 
       <ul>
-        {categorias.map((categoria, index) => (
-          <li key={categoria[index]}>{categoria.titulo}</li>
+        {categorias.map((categoria) => (
+          <li key={categoria.titulo}>{categoria.titulo}</li>
         ))}
       </ul>
 
